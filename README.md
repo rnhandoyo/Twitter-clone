@@ -50,7 +50,8 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+*Split into two because otherwise file size would be too large*
+![](https://i.imgur.com/fCEE8Ye.gif)
+![](https://i.imgur.com/HjBo3WC.gif)
 
-
-![](https://i.imgur.com/NJaYsEU.gif)
 
